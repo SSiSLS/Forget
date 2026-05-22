@@ -6,7 +6,7 @@
 ## Notebooks we will go over and try out together
 
 - explore standard ECCO diagnostics interactively via Pluto/Julia using [Climatology.jl](https://juliaocean.github.io/Climatology.jl/dev/examples/ECCO_standard_plots.html)
-- adjoint reconstruction in python or julia notebook you would create (based on Matlab example & data we will provide)
+- adjoint reconstruction in python or julia notebook (notebook & data provided)
 - reference ECCO recipes to analyze sea level from gridded output in Python :
   - https://ecco-v4-python-tutorial.readthedocs.io/Steric_height.html
   - https://ecco-v4-python-tutorial.readthedocs.io/Steric_SSH_OBP.html
