@@ -17,6 +17,7 @@
 - For the tutorial on ECCO reconstruction, all that is need is @ https://zenodo.org/records/20301468
 - For the tutorial on steric sea level and bottom pressure in ECCO, the files needed are @ https://zenodo.org/records/20278138
   - Alternatively, a better idea in the long run for all NASA data needs is to get an account on earthdata.nasa.gov as explained @ https://ecco-v4-python-tutorial.readthedocs.io/ECCO_access_intro.html to enable you to use `ecco_access`
+- For the tutorial on steric sea level and bottom pressure in ECCO, see `StericHeight_Environments.md`
 
 ## More that you can try on your own
 
