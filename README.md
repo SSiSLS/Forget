@@ -28,3 +28,11 @@
 - simulate seawater pathways using ECCO flow fields (3D or 2D) using [Drifters.jl](https://juliaclimate.github.io/Drifters.jl/dev/examples/global_ocean_circulation.html)
 - differentiable programming (adjoint modeling) example on air-sea fluxes using [ECCO.jl](https://gaelforget.github.io/ECCO.jl/dev/examples/)
 - build and run MITgcm interactively from Julia using [MITgcm.jl](https://gaelforget.github.io/MITgcm.jl/dev/)
+
+## Acknowledgments
+
+- Thanks to Drs Yuanyuan Song, Yueyang Lu for setting up and leading the tutorials. 
+- Thanks to Dr Ian Fenty for contributing slides used in the lecture, Dr Ou Wang for contributing to the tutorials session.
+- Thanks to the ECCO community and to NASA for their support and contributions.
+
+Gaël Forget
