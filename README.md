@@ -1,6 +1,6 @@
 # Forget
 
-- A pdf version of the lecture on **Estimating the Circulation and Climate of the Ocean (ECCO)** is available @ https://doi.org/10.13140/RG.2.2.28126.60489
+- A pdf version of the lecture on **Estimating the Circulation and Climate of the Ocean (ECCO)** is available @ https://doi.org/10.13140/RG.2.2.28126.60489/1
 - Below is the information on tutorials and suggested exercises
 
 ## Notebooks we will go over and try out together
